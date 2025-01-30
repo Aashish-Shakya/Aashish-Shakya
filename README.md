@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing new things
 - 🌱 I’m currently learning talwind
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 8882386369
+- 📫 How to reach me shakyaaashish700@gmail.com
 
 <!---
 Aashish-Shakya/Aashish-Shakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
